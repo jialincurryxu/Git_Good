@@ -1,8 +1,8 @@
 #we need to make some conflict
 
-i = 1
-j = 2
-k = 3
+i = 99
+j = 88
+k = 77
 print (i)
 print (j)
 print (k)
