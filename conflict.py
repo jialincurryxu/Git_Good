@@ -2,7 +2,8 @@
 
 i = 1
 j = 2
-k = 4
+k = 77
+
 print (i)
 print (j)
 print (k)
