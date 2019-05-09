@@ -2,7 +2,7 @@
 
 i = 1
 j = 2
-k = 3
+k = 4
 print (i)
 print (j)
 print (k)
